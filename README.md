@@ -1,3 +1,4 @@
 SolarSol
 
-Project uses IOT technology to maintain proper working of solar panel
+Project uses IOT technology to monitor working of solar panel and maintain them.
+ 
